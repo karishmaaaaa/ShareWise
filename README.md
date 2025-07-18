@@ -1,4 +1,4 @@
-# 🧠 Today I Learned (TIL) - Sharing Wall
+#Today I Learned (TIL) - Sharing Wall
 
 > A web app to share what you learned today — be it tech tips, life lessons, or random facts. Reflect, post, and explore learnings from others every day.
 
