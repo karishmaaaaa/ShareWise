@@ -23,12 +23,3 @@
 - **Database:** MongoDB + Mongoose  
 - **Authentication:** JWT (JSON Web Tokens)
 
----
-
-## 📦 Installation
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/yourusername/today-i-learned.git
-cd today-i-learned
